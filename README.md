@@ -14,7 +14,7 @@ A structured logging package for Go built on top of [zap](https://github.com/ube
 ## Installation
 
 ```bash
-go get zlog
+go get github.com/Pastir/zlog
 ```
 
 ## Quick Start
@@ -26,7 +26,7 @@ import (
     "log"
     
     "go.uber.org/zap"
-    "zlog/zlog"
+    "github.com/Pastir/zlog"
 )
 
 func main() {

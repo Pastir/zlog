@@ -1,4 +1,4 @@
-module zlog
+module github.com/Pastir/zlog
 
 go 1.24
 
